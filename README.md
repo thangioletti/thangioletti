@@ -5,7 +5,7 @@
 
 ## Sobre Mim
 
-Oi, eu sou Tiago Henrique Angioletti, um entusiasta da tecnologia apaixonado por programação e inovação. Atualmente, trabalho como DevOps Engeneer na Philips, e sou professor da area de programação na faculdade Senac em Blumenau.
+Oi, eu sou Tiago Henrique Angioletti, um entusiasta da tecnologia apaixonado por programação e inovação. Atualmente, trabalho como DevOps Engineer na Philips, e sou professor da area de programação na faculdade Senac em Blumenau.
 
 ## 🛠 &nbsp;Tech Stack
 
