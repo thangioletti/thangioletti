@@ -1,7 +1,7 @@
 # Tiago Angioletti
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tiago-angioletti/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/thangioletti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square)](https://www.linkedin.com/in/tiago-angioletti/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-green?style=flat-square)](https://github.com/thangioletti)
 
 ## Sobre Mim
 
